@@ -1,3 +1,3 @@
-We mod existing chromeOS Projects lol
+a group of idoitod
 
-Thanks Mecury Workshop
+we make mostly shell scripts and some chromeos exploits

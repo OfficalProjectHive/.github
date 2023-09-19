@@ -1,3 +1,5 @@
-a group of idoitod
+# Project HIVE
 
-we make mostly shell scripts and some chromeos exploits
+A Group that makes funny shell scripts
+
+-Wave Demure/elliothegamer2 > Owner
